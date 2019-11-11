@@ -2,8 +2,8 @@
 
 ### Requerimientos:
 
--Python (versión 3.x)
--Tensorflow (versión 1.9)
+- Python (versión 3.x)
+- Tensorflow (versión 1.9)
 
 ### Modo de uso:
 
